@@ -3,21 +3,25 @@
 fun main() {
 //    Module 1 – Introduction à Kotlin et à la programmation
 //    Exercice 1-calcul de moyenne
-//    println("entrer 03 note decimalle:")
-//    val nbre1: Float=readln().toFloat()
-//    val nbre2: Float=readln().toFloat()
-//    val nbre3: Float=readln().toFloat()
-//    var moy: Float;
-//    moy=(nbre1 + nbre2 + nbre3)/3
-//    println("la moyenne est : M = ${moy}")
+/*    println("entrer 03 note decimalle:")
+    val nbre1: Float=readln().toFloat()
+    val nbre2: Float=readln().toFloat()
+    val nbre3: Float=readln().toFloat()
+    var moy: Float;
+    moy=(nbre1 + nbre2 + nbre3)/3
+    println("la moyenne est : M = ${moy}")
+
+ */
 //    exercice 2-Message personnalisé
-//    print("entrer votre Prenom: ")
-//    val prenom: String=readln()
-//    print("entrer votre age: ")
-//    val age: Int=readln().toInt()
-//    print("entrer votre ville: ")
-//    val ville: String=readln()
-//    println("Bonjour ${prenom}, tu as ${age} ans et tu habites a ${ville} ")
+ /*   print("entrer votre Prenom: ")
+    val prenom: String=readln()
+    print("entrer votre age: ")
+    val age: Int=readln().toInt()
+    print("entrer votre ville: ")
+    val ville: String=readln()
+    println("Bonjour ${prenom}, tu as ${age} ans et tu habites a ${ville} ")
+
+  */
 //exercice 3-L’année de vos 100 ans
   /*  var annee: Int=2025
     val cent=100
@@ -33,10 +37,12 @@ fun main() {
         }
     }*/
 //    Exercice 4 – Compteur de mots
-//    println("entrer une phrase ")
-//    val phrase=readln()
-//    var tab=phrase.split(" ")
-//    println("le nombre de mot que contient votre Phrase est ${tab.size}")
+  /*  println("entrer une phrase ")
+    val phrase=readln()
+    var tab=phrase.split(" ")
+    println("le nombre de mot que contient votre Phrase est ${tab.size}")
+
+   */
 //Exercice 5 – Carte d’identité virtuelle
   /*  print("Nom:  ")
     val nom=readln()
